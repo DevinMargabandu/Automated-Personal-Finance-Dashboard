@@ -14,7 +14,7 @@ This project demonstrates practical data processing, basic financial analytics, 
 - 🐼 Pandas
 - 🌐 Streamlit
 
-How to Run the Project
+▶️ How to Run the Project
 1. Activate the Virtual Environment
 source venv/bin/activate
 
