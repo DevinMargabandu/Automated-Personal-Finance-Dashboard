@@ -33,9 +33,9 @@ Open:http://localhost:8501
 - Additionally, the project illustrates the ability to build an interactive user interface using Streamlit, allowing complex backend logic to be presented in a simple and user-friendly dashboard. This reflects a solid understanding of separating data processing from presentation logic.
 - Overall, the project emphasizes strong foundational skills in Python programming, data analysis, and software engineering best practices, including project organization, dependency management, and clear documentation. The structure is designed for readability, maintainability, and future expansion.
 
-## Future Improvements
-- Add monthly and yearly spending summaries showing total amount spent over time
-- Break down monthly and yearly expenses by category to analyze spending patterns
-- Implement time-based filtering to compare spending trends across different periods
-- Enable CSV file upload through the dashboard interface
-- Add budget tracking and alert notifications
+## 🌱 Future Improvements
+- 📅 Add monthly and yearly spending summaries
+- 🧾 Break down expenses by category over time
+- ⏱ Implement time-based filters for trend analysis
+- 📤 Enable CSV file uploads directly through the dashboard
+- 🚨 Add budget tracking with alerts and notifications
