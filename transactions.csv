@@ -1,0 +1,6 @@
+date,description,amount,type,category
+2025-01-01,Paycheck,2500,Income,Salary
+2025-01-02,Rent,-1200,Expense,Housing
+2025-01-03,Groceries,-150,Expense,Food
+2025-01-05,Gas,-60,Expense,Transportation
+2025-01-07,Netflix,-15,Expense,Entertainment
