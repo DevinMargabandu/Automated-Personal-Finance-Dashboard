@@ -9,12 +9,10 @@ This project demonstrates practical data processing, basic financial analytics, 
 - 📊 Displays an interactive dashboard using Streamlit
 - 📈 Visualizes spending data with easy-to-read charts
 
----
-
-## Technologies Used
-- Python
-- Pandas
-- Streamlit
+## 🛠 Technologies Used
+- 🐍 Python
+- 🐼 Pandas
+- 🌐 Streamlit
 
 How to Run the Project
 1. Activate the Virtual Environment
