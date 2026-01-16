@@ -1,8 +1,6 @@
-# Automated-Personal-Finance-Dashboard
-
-A Python-based web dashboard that analyzes personal financial transactions and visualizes income, expenses, and spending patterns.
-
-This project demonstrates practical data processing, basic analytics, and dashboard development using Python.
+# 💰 Automated Personal Finance Dashboard
+A Python-based web dashboard that analyzes personal financial transactions and visualizes income, expenses, and spending patterns in an intuitive, interactive interface.
+This project demonstrates practical data processing, basic financial analytics, and dashboard development using Python.
 
 ---
 
