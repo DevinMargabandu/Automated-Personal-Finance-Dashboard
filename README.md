@@ -2,14 +2,12 @@
 A Python-based web dashboard that analyzes personal financial transactions and visualizes income, expenses, and spending patterns in an intuitive, interactive interface.
 This project demonstrates practical data processing, basic financial analytics, and dashboard development using Python.
 
----
-
-## Features
-- Reads financial transactions from a CSV file
-- Automatically calculates total income, expenses, and balance
-- Groups expenses by category
-- Displays an interactive dashboard using Streamlit
-- Visualizes spending data with charts
+## ✨ Features
+- 📄 Reads financial transactions from a CSV file
+- 🧮 Automatically calculates total income, expenses, and remaining balance
+- 🗂 Groups expenses by category for clearer insights
+- 📊 Displays an interactive dashboard using Streamlit
+- 📈 Visualizes spending data with easy-to-read charts
 
 ---
 
