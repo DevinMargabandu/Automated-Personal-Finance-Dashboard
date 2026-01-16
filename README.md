@@ -27,15 +27,11 @@ streamlit run finance_dashboard.py
 4. View in Browser
 Open:http://localhost:8501
 
-## What This Project Demonstrates
-This project demonstrates the ability to design and implement a practical, real-world application using Python. It shows how raw data can be ingested, processed, and transformed into meaningful insights through clean and well-structured code.
-
-The application highlights proficiency in data manipulation and analysis using Pandas, including filtering, grouping, and aggregating transactional data. It also demonstrates an understanding of basic financial analytics by calculating income, expenses, balances, and category-based spending patterns.
-
-Additionally, the project showcases the ability to build an interactive user interface using Streamlit, allowing complex data processing logic to be presented in a simple and user-friendly dashboard. This reflects an understanding of separating data processing from presentation logic.
-
-Overall, the project illustrates strong foundational skills in Python programming, data analysis, and software engineering best practices, including project organization, dependency management, and clear documentation. The design emphasizes readability, maintainability, and extensibility, making it easy to enhance with additional features such as time-based analysis, budgeting tools, and automated reporting.
-
+## 🧠 What This Project Demonstrates
+- This project showcases the ability to design and implement a real-world, data-driven application using Python. It demonstrates how raw financial data can be ingested, processed, and transformed into meaningful insights through clean, well-structured code.
+- The application highlights proficiency in data manipulation and analysis using Pandas, including filtering, grouping, and aggregating transactional data. It also demonstrates an understanding of basic financial analytics by calculating income, expenses, balances, and category-based spending patterns.
+- Additionally, the project illustrates the ability to build an interactive user interface using Streamlit, allowing complex backend logic to be presented in a simple and user-friendly dashboard. This reflects a solid understanding of separating data processing from presentation logic.
+- Overall, the project emphasizes strong foundational skills in Python programming, data analysis, and software engineering best practices, including project organization, dependency management, and clear documentation. The structure is designed for readability, maintainability, and future expansion.
 
 ## Future Improvements
 - Add monthly and yearly spending summaries showing total amount spent over time
